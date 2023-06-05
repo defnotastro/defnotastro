@@ -1,6 +1,6 @@
 # Welcome to My Coding Journey! 👋
 
-Hello there! I'm [Your Name], an aspiring developer passionate about technology and committed to continuous learning. This repository is a reflection of my journey as I embark on the exciting path of becoming a skilled developer.
+Hello there! I'm Astro!, an aspiring developer passionate about technology and committed to continuous learning. This repository is a reflection of my journey as I embark on the exciting path of becoming a skilled developer.
 
 ## 🌱 About Me
 
